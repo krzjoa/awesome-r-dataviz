@@ -3,7 +3,7 @@
 > A curated resources for Data Visualization in R.
 
 ## ggplot
-### ggplot themes
+### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
 * [ggthemes](https://github.com/jrnold/ggthemes) - Additional themes, scales, and geoms for ggplot2.
 * [ggpomological](https://github.com/gadenbuie/ggpomological) - Pomological plot theme for ggplot2 .
@@ -13,7 +13,7 @@
 * [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package.
 * [visibly](https://github.com/m-clark/visibly) - Functions related to R visualizations.
 
-## Domain-specific
+### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) - Plot soccer event data in R/ggplot2.
 
@@ -26,11 +26,20 @@
 * [dataRbeautiful](https://github.com/moldach/dataRbeautiful) - Recreating data visualizations from "Knowledge is Beautiful" by David McCandless in R.
 
 ## Inspirations
-* [tidytuesday by @Karamanis](https://github.com/gkaramanis/tidytuesday)
-* https://medium.com/design-and-tech-co/beautiful-visualizations-from-reddits-dataviz-battle-competition-1d058e84285c
-* https://www.listendata.com/2019/06/create-infographics-with-r.html
-* https://mode.com/blog/r-ggplot-extension-packages
-* http://www.storytellingwithdata.com/blog/2019/7/15/recapping-radials
-* https://fronkonstin.com/
-* http://www.datasketch.es/may/
-* https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2
+### Tidytuesday
+* [by Karamanis](https://github.com/gkaramanis/tidytuesday)
+* [by Z3tt](https://github.com/Z3tt)
+* [by abichat](https://github.com/abichat/tidytuesday)
+
+### How to...?
+* [Create infographics in R?](https://www.listendata.com/2019/06/create-infographics-with-r.html)
+* [Plot wind directions with arrows?](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
+
+### Art
+* [Fronkonstin](https://fronkonstin.com/)
+
+### Other
+* [Data Sketch](http://www.datasketch.es/may/)
+* [recapping radials](http://www.storytellingwithdata.com/blog/2019/7/15/recapping-radials)
+* [Beautiful Visualizations from Reddit’s DataViz Battle Competition]()https://medium.com/design-and-tech-co/beautiful-visualizations-from-reddits-dataviz-battle-competition-1d058e84285c
+* [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
