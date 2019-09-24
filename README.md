@@ -46,4 +46,6 @@
 * [Beautiful Visualizations from Reddit’s DataViz Battle Competition]()https://medium.com/design-and-tech-co/beautiful-visualizations-from-reddits-dataviz-battle-competition-1d058e84285c
 * [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
 * [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
+* [](http://www.datavis.ca/gallery/timelines.php)
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
+* [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html)
