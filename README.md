@@ -33,8 +33,9 @@
 * [by abichat](https://github.com/abichat/tidytuesday)
 
 ### How to...?
-* [Create infographics in R?](https://www.listendata.com/2019/06/create-infographics-with-r.html)
-* [Plot wind directions with arrows?](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
+* [Create infographics in R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
+* [Plot wind directions with arrows](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
+* [Plot Bump Chart](https://luisdva.github.io/rstats/dog-bump-chart/)
 
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
@@ -45,3 +46,4 @@
 * [Beautiful Visualizations from Reddit’s DataViz Battle Competition]()https://medium.com/design-and-tech-co/beautiful-visualizations-from-reddits-dataviz-battle-competition-1d058e84285c
 * [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
 * [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
+* [Data Visualization with R](https://rkabacoff.github.io/datavis/)
