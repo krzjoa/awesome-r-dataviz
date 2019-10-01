@@ -18,6 +18,9 @@
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) - Plot soccer event data in R/ggplot2.
 * [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2.
 
+### Tutorials
+* [Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization) - A Practical Guide to be Highly Effective - R software and data visualization.
+
 ## Network Visualization
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
 
