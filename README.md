@@ -22,18 +22,32 @@
 ## Network Visualization
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
 
-### Miscellaneous
+## Miscellaneous
 * [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 
+## Learning
 
-## Recreating Visualizations
+### Tutorials
+* [Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization) - A Practical Guide to be Highly Effective - R software and data visualization.
+
+### Books
+* [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff.
+* [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) Zuguang Gu.
+
+### How to...?
+* [Create infographics in R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
+* [Plot wind directions with arrows](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
+* [Plot Bump Chart](https://luisdva.github.io/rstats/dog-bump-chart/)
+
+## Inspirations
+
+### Recreating Visualizations
 * [fancy-minard](https://github.com/andrewheiss/fancy-minard) - Minard's famous plot of Napoleon's 1812 retreat from Russia (using ggplot).
 * [ggplot2 meets W. E. B. Du Bois](https://www.statswithmatt.com/post/ggplot2-meets-w-e-b-du-bois/) - Visualizing 1900s Black American life in R.
 * [W. E. Du Bois remakes](https://rpubs.com/ejhollowood/du-bois) - Visualizations remade by Ella Hollowood.
 * [dataRbeautiful](https://github.com/moldach/dataRbeautiful) - Recreating data visualizations from "Knowledge is Beautiful" by David McCandless in R.
 
-## Inspirations
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
 * [by Z3tt](https://github.com/Z3tt)
@@ -48,16 +62,3 @@
 * [Beautiful Visualizations from Reddit’s DataViz Battle Competition](https://medium.com/design-and-tech-co/beautiful-visualizations-from-reddits-dataviz-battle-competition-1d058e84285c)
 * [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
 * [Timelines and Visual Histories](http://www.datavis.ca/gallery/timelines.php) - Historical visualizations.
-
-
-## Tutorials
-* [Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization) - A Practical Guide to be Highly Effective - R software and data visualization.
-
-## Books
-* [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff.
-* [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) Zuguang Gu.
-
-## How to...?
-* [Create infographics in R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
-* [Plot wind directions with arrows](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
-* [Plot Bump Chart](https://luisdva.github.io/rstats/dog-bump-chart/)
