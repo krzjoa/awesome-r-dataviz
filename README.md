@@ -62,3 +62,7 @@
 * [Beautiful Visualizations from Reddit’s DataViz Battle Competition](https://medium.com/design-and-tech-co/beautiful-visualizations-from-reddits-dataviz-battle-competition-1d058e84285c)
 * [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
 * [Timelines and Visual Histories](http://www.datavis.ca/gallery/timelines.php) - Historical visualizations.
+
+http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/
+https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/
+
