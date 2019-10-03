@@ -17,15 +17,14 @@
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) - Plot soccer event data in R/ggplot2.
 * [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2.
-
-### Tutorials
-* [Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization) - A Practical Guide to be Highly Effective - R software and data visualization.
+* [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 
 ## Network Visualization
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
 
 ### Miscellaneous
 * [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
+* [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 
 
 ## Recreating Visualizations
@@ -40,11 +39,6 @@
 * [by Z3tt](https://github.com/Z3tt)
 * [by abichat](https://github.com/abichat/tidytuesday)
 
-### How to...?
-* [Create infographics in R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
-* [Plot wind directions with arrows](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
-* [Plot Bump Chart](https://luisdva.github.io/rstats/dog-bump-chart/)
-
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
 
@@ -55,6 +49,15 @@
 * [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
 * [Timelines and Visual Histories](http://www.datavis.ca/gallery/timelines.php) - Historical visualizations.
 
-### Books
+
+## Tutorials
+* [Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization) - A Practical Guide to be Highly Effective - R software and data visualization.
+
+## Books
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff.
 * [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) Zuguang Gu.
+
+## How to...?
+* [Create infographics in R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
+* [Plot wind directions with arrows](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
+* [Plot Bump Chart](https://luisdva.github.io/rstats/dog-bump-chart/)
