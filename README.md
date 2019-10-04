@@ -13,6 +13,9 @@
 * [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package.
 * [visibly](https://github.com/m-clark/visibly) - Functions related to R visualizations.
 
+### Palettes 🎨
+* [paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package.
+
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) - Plot soccer event data in R/ggplot2.
@@ -20,6 +23,7 @@
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 
 ## Interactive plots
+* [dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs.
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 
 ## Network Visualization
