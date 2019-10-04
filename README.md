@@ -19,6 +19,9 @@
 * [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2.
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 
+## Interactive plots
+* [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
+
 ## Network Visualization
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
 
