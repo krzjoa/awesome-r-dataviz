@@ -15,6 +15,7 @@
 
 ### Palettes 🎨
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package.
+* [randomcoloR](https://github.com/ronammar/randomcoloR) - An R package for generating attractive and distinctive colors.
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
