@@ -3,6 +3,10 @@
 > Curated resources for Data Visualization in R.
 
 ## ggplot
+
+### Additional Plot Types
+* [ggridges](https://github.com/clauswilke/ggridges) - Geoms to make ridgeline plots with ggplot2.
+
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
 * [ggthemes](https://github.com/jrnold/ggthemes) - Additional themes, scales, and geoms for ggplot2.
@@ -18,6 +22,11 @@
 * [randomcoloR](https://github.com/ronammar/randomcoloR) - An R package for generating attractive and distinctive colors.
 * [fishualize](https://github.com/nschiett/fishualize) - Color scales based on nature’s most stunning and colorful organisms: teleost fishes.
 * [harrypotter](https://github.com/aljrico/harrypotter) - A Harry Potter inspired palette for R.
+* [wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R.
+* [dutchmasters](https://github.com/EdwinTh/dutchmasters) - Colour palettes derived from famous paintings by 17th century Dutch masters.
+
+### Drawing & Filling
+* [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
@@ -26,6 +35,7 @@
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 
 ## Interactive plots
+* [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
 * [dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs.
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 
@@ -37,6 +47,7 @@
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 * [datalegreyar](https://github.com/emitanaka/datalegreyar) - The typeface that melts text and data visualisation for R markdown.
 * [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
+* [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
 
 ## Learning
@@ -78,7 +89,7 @@
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
 
-## Plots made with R
+### Plots made with R
 * [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
 * http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/
 * https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/
