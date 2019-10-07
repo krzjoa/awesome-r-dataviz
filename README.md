@@ -51,6 +51,9 @@
 * [Create infographics in R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
 * [Plot wind directions with arrows](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
 * [Plot Bump Chart](https://luisdva.github.io/rstats/dog-bump-chart/)
+* Fill area with an image
+    * [Use an image as area fill in an R plot (StackOverflow)](https://stackoverflow.com/questions/45777519/use-an-image-as-area-fill-in-an-r-plot)
+    * [Overlay de imagenes sobre areas en ggplot (in Spanish)](https://pmoracho.github.io/blog/2017/09/01/Overlay-imagen-sobre-ggplot/)
 
 ## Inspirations
 
