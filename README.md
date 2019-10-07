@@ -37,6 +37,7 @@
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 * [datalegreyar](https://github.com/emitanaka/datalegreyar) - The typeface that melts text and data visualisation for R markdown.
 * [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
+* [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
 
 ## Learning
 
@@ -48,12 +49,17 @@
 * [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) Zuguang Gu.
 
 ### How to...?
-* [Create infographics in R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
+* [Create infographics in R]
+   * [Create infographics with R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
+   * [How to Layout and Design an Infographic](https://alstatr.blogspot.com/2015/02/r-how-to-layout-and-design-infographic.html)
+   * [How to Create Infographics in R](http://nandeshwar.info/data-visualization/how-to-create-infographics-in-r/)
 * [Plot wind directions with arrows](https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2)
 * [Plot Bump Chart](https://luisdva.github.io/rstats/dog-bump-chart/)
 * Fill area with an image
     * [Use an image as area fill in an R plot (StackOverflow)](https://stackoverflow.com/questions/45777519/use-an-image-as-area-fill-in-an-r-plot)
     * [Overlay de imagenes sobre areas en ggplot (in Spanish)](https://pmoracho.github.io/blog/2017/09/01/Overlay-imagen-sobre-ggplot/)
+ * [Add custom fonts to ggplot](http://gradientdescending.com/adding-custom-fonts-to-ggplot-in-r/)
+ * [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
 
 ## Inspirations
 
