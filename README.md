@@ -16,6 +16,8 @@
 ### Palettes 🎨
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package.
 * [randomcoloR](https://github.com/ronammar/randomcoloR) - An R package for generating attractive and distinctive colors.
+* [fishualize](https://github.com/nschiett/fishualize) - Color scales based on nature’s most stunning and colorful organisms: teleost fishes.
+* [harrypotter](https://github.com/aljrico/harrypotter) - A Harry Potter inspired palette for R.
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
@@ -33,6 +35,8 @@
 ## Miscellaneous
 * [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
+* [datalegreyar](https://github.com/emitanaka/datalegreyar) - The typeface that melts text and data visualisation for R markdown.
+* [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
 
 ## Learning
 
