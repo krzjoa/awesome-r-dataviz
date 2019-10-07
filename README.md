@@ -47,9 +47,10 @@
 ### Books
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff.
 * [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) Zuguang Gu.
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html) by Claus O. Wilke.
 
 ### How to...?
-* [Create infographics in R]
+* Create infographics in R
    * [Create infographics with R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
    * [How to Layout and Design an Infographic](https://alstatr.blogspot.com/2015/02/r-how-to-layout-and-design-infographic.html)
    * [How to Create Infographics in R](http://nandeshwar.info/data-visualization/how-to-create-infographics-in-r/)
@@ -77,13 +78,17 @@
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
 
+## Plots made with R
+* [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
+* http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/
+* https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/
+
 ### Other
 * [Data Sketch](http://www.datasketch.es/may/) - Many inspiring data visualizations.
-* [recapping radials](http://www.storytellingwithdata.com/blog/2019/7/15/recapping-radials)
+* [Recapping radials](http://www.storytellingwithdata.com/blog/2019/7/15/recapping-radials)
 * [Beautiful Visualizations from Reddit’s DataViz Battle Competition](https://medium.com/design-and-tech-co/beautiful-visualizations-from-reddits-dataviz-battle-competition-1d058e84285c)
-* [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
 * [Timelines and Visual Histories](http://www.datavis.ca/gallery/timelines.php) - Historical visualizations.
 
-http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/
-https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/
+
+
 
