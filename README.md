@@ -32,10 +32,12 @@
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) - Plot soccer event data in R/ggplot2.
 * [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2.
+* [rchess](https://github.com/jbkunst/rchess) - Chess package for R.
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
+* [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets.
 * [dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs.
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 
