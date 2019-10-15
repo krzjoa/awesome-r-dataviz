@@ -5,7 +5,9 @@
 ## ggplot
 
 ### Additional Plot Types
+* [waffle](https://github.com/hrbrmstr/waffle) - Make waffle (square pie) charts in R.
 * [ggridges](https://github.com/clauswilke/ggridges) - Geoms to make ridgeline plots with ggplot2.
+* [ggchicklet](https://github.com/hrbrmstr/ggchicklet) - Create Chicklet (Rounded Segmented Column) Charts.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -37,6 +39,7 @@
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
+* [ggiraph](https://github.com/davidgohel/ggiraph) - Make 'ggplot' graphics interactive.
 * [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets.
 * [dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs.
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
@@ -51,6 +54,7 @@
 * [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
+* [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
 
 ## Learning
 
