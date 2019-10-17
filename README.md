@@ -12,6 +12,7 @@
 * [ggcorrplot](https://github.com/kassambara/ggcorrplot) - Visualization of a correlation matrix using ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2)
 * [corrgram](https://github.com/kwstat/corrgram) -  A simple way to create correlograms from raw data or a correlation matrix.
 * [ggradar](https://github.com/ricardo-bion/ggradar) - Radar charts with ggplot2 .
+* [ggparty](https://github.com/martin-borkovec/ggparty) - ggplot2 visualizations for the [partykit](http://partykit.r-forge.r-project.org/partykit/) package.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -31,6 +32,7 @@
 * [wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R.
 * [dutchmasters](https://github.com/EdwinTh/dutchmasters) - Colour palettes derived from famous paintings by 17th century Dutch masters.
 * [pals](https://github.com/kwstat/pals) - Color Palettes and Palette Evaluation Tools.
+* [jcolors](https://github.com/jaredhuling/jcolors) - A set of color palettes I like (or can at least tolerate).
 
 ### Drawing & Filling
 * [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
@@ -91,7 +93,7 @@
     * [Overlay de imagenes sobre areas en ggplot (in Spanish)](https://pmoracho.github.io/blog/2017/09/01/Overlay-imagen-sobre-ggplot/)
 * [Add custom fonts to ggplot](http://gradientdescending.com/adding-custom-fonts-to-ggplot-in-r/)
 * [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
-* [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks](https://paulbutler.org/2010/visualizing-facebook-friends/)]
+* [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
 * [Plot Bubble Packed Chart](https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/) 
 
 ## Inspirations
@@ -103,6 +105,7 @@
 * [W. E. Du Bois remakes](https://rpubs.com/ejhollowood/du-bois) - Visualizations remade by Ella Hollowood.
 * [dataRbeautiful](https://github.com/moldach/dataRbeautiful) - Recreating data visualizations from "Knowledge is Beautiful" by David McCandless in R.
 * [Animated Population Chart](https://www.stevejburr.com/post/replicating-flowingdata-population-charts-in-r/) - Replicating Flowingdata Population Charts in R.
+* [DataViz: Recreate Economist Plot](http://rpubs.com/tangerine/economist-plot) - The Economist: Global Terrorism Index.
 
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
@@ -113,6 +116,7 @@
 * [Fronkonstin](https://fronkonstin.com/)
 
 ### Plots made with R
+* [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 * [Data Movies and ggplot2](http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/)
 
 ### Other
@@ -122,8 +126,3 @@
 * [Timelines and Visual Histories](http://www.datavis.ca/gallery/timelines.php) - Historical visualizations.
 * [FlowingData](https://flowingdata.com/) - Data Visualizaion ideas and tutorials, i.a. using R.
 * [MakeoverMonday](https://www.makeovermonday.co.uk/gallery/) - Data Visualization weekly learning (mostly using Tableau).
-
-
-
-
-
