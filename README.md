@@ -81,6 +81,7 @@
     * [Overlay de imagenes sobre areas en ggplot (in Spanish)](https://pmoracho.github.io/blog/2017/09/01/Overlay-imagen-sobre-ggplot/)
  * [Add custom fonts to ggplot](http://gradientdescending.com/adding-custom-fonts-to-ggplot-in-r/)
  * [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
+ * [Map connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks](https://paulbutler.org/2010/visualizing-facebook-friends/)]
 
 ## Inspirations
 
