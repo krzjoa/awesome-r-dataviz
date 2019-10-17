@@ -26,6 +26,7 @@
 * [harrypotter](https://github.com/aljrico/harrypotter) - A Harry Potter inspired palette for R.
 * [wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R.
 * [dutchmasters](https://github.com/EdwinTh/dutchmasters) - Colour palettes derived from famous paintings by 17th century Dutch masters.
+* [pals](https://github.com/kwstat/pals) - Color Palettes and Palette Evaluation Tools.
 
 ### Drawing & Filling
 * [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
@@ -36,6 +37,7 @@
 * [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2.
 * [rchess](https://github.com/jbkunst/rchess) - Chess package for R.
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
+* [desplot](https://github.com/kwstat/desplot) - Functions for plotting experimental designs of field trials in agriculture.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
@@ -55,6 +57,7 @@
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
+* [corrgram](https://github.com/kwstat/corrgram) -  A simple way to create correlograms from raw data or a correlation matrix.
 
 ## Learning
 
@@ -82,10 +85,12 @@
 ## Inspirations
 
 ### Recreating Visualizations
+> 
 * [fancy-minard](https://github.com/andrewheiss/fancy-minard) - Minard's famous plot of Napoleon's 1812 retreat from Russia (using ggplot).
 * [ggplot2 meets W. E. B. Du Bois](https://www.statswithmatt.com/post/ggplot2-meets-w-e-b-du-bois/) - Visualizing 1900s Black American life in R.
 * [W. E. Du Bois remakes](https://rpubs.com/ejhollowood/du-bois) - Visualizations remade by Ella Hollowood.
 * [dataRbeautiful](https://github.com/moldach/dataRbeautiful) - Recreating data visualizations from "Knowledge is Beautiful" by David McCandless in R.
+* [Animated Population Chart](https://www.stevejburr.com/post/replicating-flowingdata-population-charts-in-r/) - Replicating Flowingdata Population Charts in R.
 
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
@@ -105,6 +110,9 @@
 * [Recapping radials](http://www.storytellingwithdata.com/blog/2019/7/15/recapping-radials)
 * [Beautiful Visualizations from Reddit’s DataViz Battle Competition](https://medium.com/design-and-tech-co/beautiful-visualizations-from-reddits-dataviz-battle-competition-1d058e84285c)
 * [Timelines and Visual Histories](http://www.datavis.ca/gallery/timelines.php) - Historical visualizations.
+* [FlowingData](https://flowingdata.com/) - Data Visualizaion ideas and tutorials, i.a. using R.
+* [MakeoverMonday](https://www.makeovermonday.co.uk/gallery/) - Data Visualization weekly learning (mostly using Tableau).
+
 
 
 
