@@ -8,6 +8,10 @@
 * [waffle](https://github.com/hrbrmstr/waffle) - Make waffle (square pie) charts in R.
 * [ggridges](https://github.com/clauswilke/ggridges) - Geoms to make ridgeline plots with ggplot2.
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet) - Create Chicklet (Rounded Segmented Column) Charts.
+* [ggdendro](https://github.com/andrie/ggdendro) - Tools to extract dendrogram plot data for use with ggplot.
+* [ggcorrplot](https://github.com/kassambara/ggcorrplot) - Visualization of a correlation matrix using ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggcorrplot-visualization-of-a-correlation-matrix-using-ggplot2)
+* [corrgram](https://github.com/kwstat/corrgram) -  A simple way to create correlograms from raw data or a correlation matrix.
+* [ggradar](https://github.com/ricardo-bion/ggradar) - Radar charts with ggplot2 .
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -57,7 +61,13 @@
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
-* [corrgram](https://github.com/kwstat/corrgram) -  A simple way to create correlograms from raw data or a correlation matrix.
+* [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots.
+* [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots.
+* [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
+* [ggally](https://github.com/ggobi/ggally) -R package that extends ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggally-r-package-extension-to-ggplot2-for-correlation-matrix-and-survival-plots-r-software-and-data-visualization)
+
+## Spatial Visualization
+* [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
 
 ## Learning
 
@@ -79,9 +89,10 @@
 * Fill area with an image
     * [Use an image as area fill in an R plot (StackOverflow)](https://stackoverflow.com/questions/45777519/use-an-image-as-area-fill-in-an-r-plot)
     * [Overlay de imagenes sobre areas en ggplot (in Spanish)](https://pmoracho.github.io/blog/2017/09/01/Overlay-imagen-sobre-ggplot/)
- * [Add custom fonts to ggplot](http://gradientdescending.com/adding-custom-fonts-to-ggplot-in-r/)
- * [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
- * [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks](https://paulbutler.org/2010/visualizing-facebook-friends/)]
+* [Add custom fonts to ggplot](http://gradientdescending.com/adding-custom-fonts-to-ggplot-in-r/)
+* [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
+* [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks](https://paulbutler.org/2010/visualizing-facebook-friends/)]
+* [Plot Bubble Packed Chart](https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/) 
 
 ## Inspirations
 
@@ -102,9 +113,7 @@
 * [Fronkonstin](https://fronkonstin.com/)
 
 ### Plots made with R
-* [12 Extensions to ggplot2 for More Powerful R Visualizations](https://mode.com/blog/r-ggplot-extension-packages)
-* http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/
-* https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/
+* [Data Movies and ggplot2](http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/)
 
 ### Other
 * [Data Sketch](http://www.datasketch.es/may/) - Many inspiring data visualizations.
