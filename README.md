@@ -25,6 +25,7 @@
 * [tvthemes](https://github.com/Ryo-N7/tvthemes) - ggplot2 themes and palettes based on your favorite TV shows.
 * [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package.
 * [visibly](https://github.com/m-clark/visibly) - Functions related to R visualizations.
+* [xkcd](http://xkcd.r-forge.r-project.org/) - Graphs using the XKCD style (a webcomic of romance, sarcasm, math, and language).
 
 ### Palettes 🎨
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package.
@@ -106,6 +107,7 @@
 * [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
 * [Plot Bubble Packed Chart](https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/) 
 * [Create waterfall chart with ggplot2](https://anhhoangduc.com/blog/create-waterfall-chart-with-ggplot2/)
+* [Make xkcd style graphs](https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs)
 
 ## Inspirations
 
