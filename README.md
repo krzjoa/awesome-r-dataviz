@@ -52,7 +52,6 @@
 * [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations.
-* 
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
 * [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots.
 * [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots.
