@@ -25,7 +25,7 @@
 * [tvthemes](https://github.com/Ryo-N7/tvthemes) - ggplot2 themes and palettes based on your favorite TV shows.
 * [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package.
 * [visibly](https://github.com/m-clark/visibly) - Functions related to R visualizations.
-* [xkcd](http://xkcd.r-forge.r-project.org/) - Graphs using the XKCD style (a webcomic of romance, sarcasm, math, and language).
+* [xkcd](http://xkcd.r-forge.r-project.org/) - Graphs using the XKCD style (a webcomic of romance, sarcasm, math, and language). [[Tutorial]](https://github.com/cran/xkcd/blob/master/inst/doc/xkcd-intro.pdf)
 
 ### Palettes 🎨
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package.
