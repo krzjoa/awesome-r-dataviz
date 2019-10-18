@@ -48,6 +48,22 @@
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 * [desplot](https://github.com/kwstat/desplot) - Functions for plotting experimental designs of field trials in agriculture.
 
+### Miscellaneous
+* [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
+* [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
+* [datalegreyar](https://github.com/emitanaka/datalegreyar) - The typeface that melts text and data visualisation for R markdown.
+* [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
+* [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
+* [animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations.
+* 
+* [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
+* [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots.
+* [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots.
+* [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
+* [ggally](https://github.com/ggobi/ggally) - R package that extends ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggally-r-package-extension-to-ggplot2-for-correlation-matrix-and-survival-plots-r-software-and-data-visualization)
+* [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](https://www.inwt-statistics.com/read-blog/ggcorpident.html)
+* [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
+
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
 * [rbokeh](https://github.com/bokeh/rbokeh) - R interface to Bokeh.
@@ -55,27 +71,15 @@
 * [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets.
 * [dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs.
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
+* [googleVis](https://github.com/mages/googleVis) - Interface between R and the Google Chart Tools.
 
 ## Network Visualization
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization.
 
-## Miscellaneous
-* [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
-* [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
-* [datalegreyar](https://github.com/emitanaka/datalegreyar) - The typeface that melts text and data visualisation for R markdown.
-* [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
-* [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
-* [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
-* [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
-* [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots.
-* [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots.
-* [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
-* [ggally](https://github.com/ggobi/ggally) - R package that extends ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggally-r-package-extension-to-ggplot2-for-correlation-matrix-and-survival-plots-r-software-and-data-visualization)
-* [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](https://www.inwt-statistics.com/read-blog/ggcorpident.html)
-
 ## Spatial Visualization
 * [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
+* [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps.
 
 ## Learning
 
