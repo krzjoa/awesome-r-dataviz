@@ -13,6 +13,8 @@
 * [corrgram](https://github.com/kwstat/corrgram) -  A simple way to create correlograms from raw data or a correlation matrix.
 * [ggradar](https://github.com/ricardo-bion/ggradar) - Radar charts with ggplot2 .
 * [ggparty](https://github.com/martin-borkovec/ggparty) - ggplot2 visualizations for the [partykit](http://partykit.r-forge.r-project.org/partykit/) package.
+* [ggmosaic](https://github.com/haleyjeppson/ggmosaic) - Mosaicplots in the ggplot2 framework.
+* [ggvoronoi](https://github.com/garretrc/ggvoronoi) - Easy Voronoi diagram heatmaps with ggplot2.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -47,6 +49,7 @@
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
+* [rbokeh](https://github.com/bokeh/rbokeh) - R interface to Bokeh.
 * [ggiraph](https://github.com/davidgohel/ggiraph) - Make 'ggplot' graphics interactive.
 * [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets.
 * [dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs.
@@ -54,6 +57,7 @@
 
 ## Network Visualization
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
+* [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization.
 
 ## Miscellaneous
 * [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
@@ -67,6 +71,7 @@
 * [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots.
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [ggally](https://github.com/ggobi/ggally) - R package that extends ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggally-r-package-extension-to-ggplot2-for-correlation-matrix-and-survival-plots-r-software-and-data-visualization)
+* [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](https://www.inwt-statistics.com/read-blog/ggcorpident.html)
 
 ## Spatial Visualization
 * [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
@@ -75,10 +80,15 @@
 
 ### Tutorials
 * [Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization) - A Practical Guide to be Highly Effective - R software and data visualization.
+* [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+* [A pole vaulting example](http://eriqande.github.io/rep-res-web/lectures/ggplot_1_pole_vault_example.html)
+* [The Evolution of a ggplot](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
+* [SOMs and ggplot](http://blog.schochastics.net/post/soms-and-ggplot/)
 
 ### Books
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff.
-* [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) Zuguang Gu.
+* [Data Visualization. A practical introduction](https://socviz.co/) by Kieran Healy.
+* [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) by Zuguang Gu.
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html) by Claus O. Wilke.
 
 ### How to...?
@@ -95,17 +105,18 @@
 * [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
 * [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
 * [Plot Bubble Packed Chart](https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/) 
+* [Create waterfall chart with ggplot2](https://anhhoangduc.com/blog/create-waterfall-chart-with-ggplot2/)
 
 ## Inspirations
 
 ### Recreating Visualizations
-> 
 * [fancy-minard](https://github.com/andrewheiss/fancy-minard) - Minard's famous plot of Napoleon's 1812 retreat from Russia (using ggplot).
 * [ggplot2 meets W. E. B. Du Bois](https://www.statswithmatt.com/post/ggplot2-meets-w-e-b-du-bois/) - Visualizing 1900s Black American life in R.
 * [W. E. Du Bois remakes](https://rpubs.com/ejhollowood/du-bois) - Visualizations remade by Ella Hollowood.
 * [dataRbeautiful](https://github.com/moldach/dataRbeautiful) - Recreating data visualizations from "Knowledge is Beautiful" by David McCandless in R.
 * [Animated Population Chart](https://www.stevejburr.com/post/replicating-flowingdata-population-charts-in-r/) - Replicating Flowingdata Population Charts in R.
 * [DataViz: Recreate Economist Plot](http://rpubs.com/tangerine/economist-plot) - The Economist: Global Terrorism Index.
+* [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/2015/04/09/recreating-the-vaccination-heatmaps-in-r/)
 
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
@@ -116,6 +127,7 @@
 * [Fronkonstin](https://fronkonstin.com/)
 
 ### Plots made with R
+* [The R Graph Gallery](https://www.r-graph-gallery.com/) - Help and inspiration for R charts.
 * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 * [Data Movies and ggplot2](http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/)
 
