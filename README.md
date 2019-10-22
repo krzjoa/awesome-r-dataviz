@@ -45,23 +45,26 @@
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 * [desplot](https://github.com/kwstat/desplot) - Functions for plotting experimental designs of field trials in agriculture.
 
-### Miscellaneous
-* [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
-* [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
-* [datalegreyar](https://github.com/emitanaka/datalegreyar) - The typeface that melts text and data visualisation for R markdown.
-* [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
+### Animations
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations.
+* [tweenr](https://github.com/thomasp85/tweenr) - A package for interpolating data, mainly for animations.
+
+### Devices
+* [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
+* [devoutsvg](https://github.com/coolbutuseless/devoutsvg) - Bespoke SVG graphics output device with pattern fill support .
+
+### Miscellaneous
+* [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
+* [datalegreyar](https://github.com/emitanaka/datalegreyar) - The typeface that melts text and data visualisation for R markdown.
+* [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
 * [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots.
 * [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots.
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [ggally](https://github.com/ggobi/ggally) - R package that extends ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggally-r-package-extension-to-ggplot2-for-correlation-matrix-and-survival-plots-r-software-and-data-visualization)
 * [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](https://www.inwt-statistics.com/read-blog/ggcorpident.html)
-* [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
-* [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
 * [ggforce](https://github.com/thomasp85/ggforce) - Accelerating ggplot2. [[Tutorial 1]](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/) [[Tutorial 2]](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
-* [tweenr](https://github.com/thomasp85/tweenr) - A package for interpolating data, mainly for animations.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
@@ -78,12 +81,21 @@
 
 ## Spatial Visualization
 * [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
+* [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps.
 * [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps.
+* [globe4r](https://github.com/JohnCoene/globe4r) - Interactive globe visualisations.
+
+## Drawing & Rendering
+* [magick](https://github.com/ropensci/magick) - Advanced Image-Processing in R. [[Tutorial]](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+* [bunny](https://github.com/dmi3kno/bunny) - Useful helper functions for working with magick.
+* [svgpatternusgs](https://github.com/coolbutuseless/svgpatternusgs) - SVG patterns from the U.S. Geological Survey for use within R.
+* [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
+* [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 
 ## Learning
 
 ### Tutorials
-* [Be Awesome in ggplot2](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization) - A Practical Guide to be Highly Effective - R software and data visualization.
+* [Be Awesome in ggplot2: A Practical Guide to be Highly Effective - R software and data visualization.](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization) 
 * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 * [A pole vaulting example](http://eriqande.github.io/rep-res-web/lectures/ggplot_1_pole_vault_example.html)
 * [The Evolution of a ggplot](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
@@ -94,6 +106,7 @@
 * [Data Visualization. A practical introduction](https://socviz.co/) by Kieran Healy.
 * [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) by Zuguang Gu.
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html) by Claus O. Wilke.
+* [Geocomputation with R: Chapter 8 Making maps with R](https://geocompr.robinlovelace.net/adv-map.html) by Robin Lovelace, Jakub Nowosad and Jannes Muenchow.
 
 ### How to...?
 * Create infographics in R
@@ -107,21 +120,27 @@
     * [Overlay de imagenes sobre areas en ggplot (in Spanish)](https://pmoracho.github.io/blog/2017/09/01/Overlay-imagen-sobre-ggplot/)
 * [Add custom fonts to ggplot](http://gradientdescending.com/adding-custom-fonts-to-ggplot-in-r/)
 * [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
-* [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
+* [Draw connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
 * [Plot Bubble Packed Chart](https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/) 
 * [Create waterfall chart with ggplot2](https://anhhoangduc.com/blog/create-waterfall-chart-with-ggplot2/)
 * [Make xkcd style graphs](https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs)
 
+#### Drawing
+* Create hex sticker
+  * [Making hex and twittercard with bunny and magick](https://www.ddrive.no/post/making-hex-and-twittercard-with-bunny-and-magick/)
+  * [gganimate your hex](https://www.ddrive.no/post/gganimate-your-hex/)
+
 ## Inspirations
 
 ### Recreating Visualizations
-* [fancy-minard](https://github.com/andrewheiss/fancy-minard) - Minard's famous plot of Napoleon's 1812 retreat from Russia (using ggplot).
-* [ggplot2 meets W. E. B. Du Bois](https://www.statswithmatt.com/post/ggplot2-meets-w-e-b-du-bois/) - Visualizing 1900s Black American life in R.
-* [W. E. Du Bois remakes](https://rpubs.com/ejhollowood/du-bois) - Visualizations remade by Ella Hollowood.
-* [dataRbeautiful](https://github.com/moldach/dataRbeautiful) - Recreating data visualizations from "Knowledge is Beautiful" by David McCandless in R.
-* [Animated Population Chart](https://www.stevejburr.com/post/replicating-flowingdata-population-charts-in-r/) - Replicating Flowingdata Population Charts in R.
-* [DataViz: Recreate Economist Plot](http://rpubs.com/tangerine/economist-plot) - The Economist: Global Terrorism Index.
+* [Minard's famous plot of Napoleon's 1812 retreat from Russia](https://github.com/andrewheiss/fancy-minard) 
+* [ggplot2 meets W. E. B. Du Bois - Visualizing 1900s Black American life in R.](https://www.statswithmatt.com/post/ggplot2-meets-w-e-b-du-bois/) 
+* [W. E. Du Bois remakes](https://rpubs.com/ejhollowood/du-bois) by Ella Hollowood.
+* [dataRbeautiful -  Recreating data visualizations from "Knowledge is Beautiful"](https://github.com/moldach/dataRbeautiful) by David McCandless.
+* [Flowingdata Animated Population Chart](https://www.stevejburr.com/post/replicating-flowingdata-population-charts-in-r/) 
+* [Recreate The Economist: Global Terrorism Index Plot](http://rpubs.com/tangerine/economist-plot)
 * [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/2015/04/09/recreating-the-vaccination-heatmaps-in-r/)
+* [You can replicate almost any plot with R](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/)
 
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
