@@ -16,6 +16,8 @@
 * [ggmosaic](https://github.com/haleyjeppson/ggmosaic) - Mosaicplots in the ggplot2 framework.
 * [ggbeeswarm](https://github.com/eclarke/ggbeeswarm) - Column scatter / beeswarm-style plots in ggplot2.
 * [ggvoronoi](https://github.com/garretrc/ggvoronoi) - Easy Voronoi diagram heatmaps with ggplot2.
+* [ggTimeSeries](https://github.com/shrektan/ggTimeSeries) - Taking time series visualisations beyond line charts.
+* [ggupset](https://github.com/const-ae/ggupset) - Combination matrix axis for 'ggplot2' to create 'UpSet' plots.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -27,6 +29,7 @@
 * [Rokemon](https://github.com/schochastics/Rokemon) - Pokemon themed R package.
 * [visibly](https://github.com/m-clark/visibly) - Functions related to R visualizations.
 * [xkcd](http://xkcd.r-forge.r-project.org/) - Graphs using the XKCD style (a webcomic of romance, sarcasm, math, and language). [[Tutorial]](https://github.com/cran/xkcd/blob/master/inst/doc/xkcd-intro.pdf)
+* [ggrough](https://github.com/xvrdm/ggrough) - Convert ggplot2 chart to roughjs.
 
 ### Palettes 🎨
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package.
@@ -46,6 +49,7 @@
 * [rchess](https://github.com/jbkunst/rchess) - Chess package for R.
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 * [desplot](https://github.com/kwstat/desplot) - Functions for plotting experimental designs of field trials in agriculture.
+* [kinship2](https://github.com/sinnweja/kinship2) - Pedigree creation, plotting, and analytics. [[Vignette]](https://cran.r-project.org/web/packages/kinship2/vignettes/pedigree.html)
 
 ### Text
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
@@ -89,6 +93,7 @@
 ## Network Visualization
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization.
+* [ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics.
 
 ## Spatial Visualization
 * [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
@@ -114,6 +119,7 @@
 * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 * [A pole vaulting example](http://eriqande.github.io/rep-res-web/lectures/ggplot_1_pole_vault_example.html)
 * [The Evolution of a ggplot](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
+* [Introduction to Network Analysis with R. Creating static and interactive network graphs](https://www.jessesadler.com/post/network-analysis-with-r/)
 
 ### Books
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff.
@@ -141,6 +147,7 @@
 * [Make xkcd style graphs](https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs)
 * [Visualize Self-Organizing Map](http://blog.schochastics.net/post/soms-and-ggplot/)
 * [Use emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
+* [Make calendar with ggplot](https://chichacha.netlify.com/2018/05/26/making-calendar-with-ggplot-moon-phase-calendar/)
 
 #### Maps
 * [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
