@@ -110,6 +110,8 @@
 * [Geocomputation with R: Chapter 8 Making maps with R](https://geocompr.robinlovelace.net/adv-map.html) by Robin Lovelace, Jakub Nowosad and Jannes Muenchow.
 
 ### How to...?
+
+#### Plots
 * Create infographics in R
    * [Create infographics with R](https://www.listendata.com/2019/06/create-infographics-with-r.html)
    * [How to Layout and Design an Infographic](https://alstatr.blogspot.com/2015/02/r-how-to-layout-and-design-infographic.html)
