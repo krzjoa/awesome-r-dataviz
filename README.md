@@ -91,6 +91,8 @@
 * [svgpatternusgs](https://github.com/coolbutuseless/svgpatternusgs) - SVG patterns from the U.S. Geological Survey for use within R.
 * [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
+* [rayrender](https://github.com/tylermorganwall/rayrender) - A raytracer for R. Based on Peter Shirley's "Ray Tracing in One Weekend" book series. 
+* [rayrender](https://github.com/tylermorganwall/rayfocus) - Add depth of field to images.
 
 ## Learning
 
@@ -99,7 +101,6 @@
 * [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 * [A pole vaulting example](http://eriqande.github.io/rep-res-web/lectures/ggplot_1_pole_vault_example.html)
 * [The Evolution of a ggplot](https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/)
-* [SOMs and ggplot](http://blog.schochastics.net/post/soms-and-ggplot/)
 
 ### Books
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff.
@@ -120,15 +121,20 @@
     * [Overlay de imagenes sobre areas en ggplot (in Spanish)](https://pmoracho.github.io/blog/2017/09/01/Overlay-imagen-sobre-ggplot/)
 * [Add custom fonts to ggplot](http://gradientdescending.com/adding-custom-fonts-to-ggplot-in-r/)
 * [Add images to the plot](https://buzzrbeeline.blog/2018/06/13/fun-and-easy-r-graphs-with-images/)
-* [Draw connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
 * [Plot Bubble Packed Chart](https://chichacha.netlify.com/2018/12/22/bubble-packed-chart-with-r-using-packcircles-package/) 
 * [Create waterfall chart with ggplot2](https://anhhoangduc.com/blog/create-waterfall-chart-with-ggplot2/)
 * [Make xkcd style graphs](https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs)
+* [Visualize Self-Organizing Map](http://blog.schochastics.net/post/soms-and-ggplot/)
+
+#### Maps
+* [Draw connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
+* [Draw 3D Lego Map and visualize Columbus Voyage - Rayshade rWalkthrough [GIF]](https://arthurwelle.github.io/RayshaderWalkthrough/index.html)
 
 #### Drawing
 * Create hex sticker
   * [Making hex and twittercard with bunny and magick](https://www.ddrive.no/post/making-hex-and-twittercard-with-bunny-and-magick/)
   * [gganimate your hex](https://www.ddrive.no/post/gganimate-your-hex/)
+    
 
 ## Inspirations
 
@@ -150,7 +156,7 @@
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
 
-### Plots made with R
+### Plot Gallery
 * [The R Graph Gallery](https://www.r-graph-gallery.com/) - Help and inspiration for R charts.
 * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 * [Data Movies and ggplot2](http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/)
