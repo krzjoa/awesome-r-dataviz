@@ -14,6 +14,7 @@
 * [ggradar](https://github.com/ricardo-bion/ggradar) - Radar charts with ggplot2 .
 * [ggparty](https://github.com/martin-borkovec/ggparty) - ggplot2 visualizations for the [partykit](http://partykit.r-forge.r-project.org/partykit/) package.
 * [ggmosaic](https://github.com/haleyjeppson/ggmosaic) - Mosaicplots in the ggplot2 framework.
+* [ggbeeswarm](https://github.com/eclarke/ggbeeswarm) - Column scatter / beeswarm-style plots in ggplot2.
 * [ggvoronoi](https://github.com/garretrc/ggvoronoi) - Easy Voronoi diagram heatmaps with ggplot2.
 
 ### Themes
@@ -36,6 +37,7 @@
 * [dutchmasters](https://github.com/EdwinTh/dutchmasters) - Colour palettes derived from famous paintings by 17th century Dutch masters.
 * [pals](https://github.com/kwstat/pals) - Color Palettes and Palette Evaluation Tools.
 * [jcolors](https://github.com/jaredhuling/jcolors) - A set of color palettes I like (or can at least tolerate).
+* [shades](https://github.com/jonclayden/shades) - Simple colour manipulation in R. [[Tutorial]](https://hughjonesd.github.io/tweaking-colours-with-the-shades-package.html)
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
@@ -45,6 +47,10 @@
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 * [desplot](https://github.com/kwstat/desplot) - Functions for plotting experimental designs of field trials in agriculture.
 
+### Text
+* [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
+* [shadowtext](https://github.com/GuangchuangYu/shadowtext) -. [[Vignette]](https://cran.r-project.org/web/packages/shadowtext/vignettes/shadowtext.html)
+
 ### Animations
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations.
@@ -52,7 +58,7 @@
 
 ### Devices
 * [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
-* [devoutsvg](https://github.com/coolbutuseless/devoutsvg) - Bespoke SVG graphics output device with pattern fill support .
+* [devoutsvg](https://github.com/coolbutuseless/devoutsvg) - Bespoke SVG graphics output device with pattern fill support.
 
 ### Miscellaneous
 * [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
@@ -61,10 +67,10 @@
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
 * [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots.
 * [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots.
-* [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [ggally](https://github.com/ggobi/ggally) - R package that extends ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggally-r-package-extension-to-ggplot2-for-correlation-matrix-and-survival-plots-r-software-and-data-visualization)
 * [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](https://www.inwt-statistics.com/read-blog/ggcorpident.html)
 * [ggforce](https://github.com/thomasp85/ggforce) - Accelerating ggplot2. [[Tutorial 1]](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/) [[Tutorial 2]](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
+* [gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
@@ -73,6 +79,9 @@
 * [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets.
 * [dygraphs](https://github.com/rstudio/dygraphs) - R interface to dygraphs.
 * [rCharts](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
+* [billboarder](https://github.com/dreamRs/billboarder) - R Htmlwidget for billboard.js.
+* [scatterD3](https://github.com/juba/scatterD3) - R scatter plot htmlwidget based on D3.js.
+* [trelliscopejs](https://github.com/hafen/trelliscopejs) - TrelliscopeJS R Package.
 * [googleVis](https://github.com/mages/googleVis) - Interface between R and the Google Chart Tools.
 
 ## Network Visualization
@@ -84,6 +93,8 @@
 * [tmap](https://github.com/mtennekes/tmap) - R package for thematic maps.
 * [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps.
 * [globe4r](https://github.com/JohnCoene/globe4r) - Interactive globe visualisations.
+* [urbnmapr](https://github.com/UrbanInstitute/urbnmapr) - State and county maps with Alaska and Hawaii.
+* cartography [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
 
 ## Drawing & Rendering
 * [magick](https://github.com/ropensci/magick) - Advanced Image-Processing in R. [[Tutorial]](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
@@ -127,6 +138,7 @@
 * [Create waterfall chart with ggplot2](https://anhhoangduc.com/blog/create-waterfall-chart-with-ggplot2/)
 * [Make xkcd style graphs](https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs)
 * [Visualize Self-Organizing Map](http://blog.schochastics.net/post/soms-and-ggplot/)
+* [Use emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
 
 #### Maps
 * [Draw connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
@@ -136,6 +148,9 @@
 * Create hex sticker
   * [Making hex and twittercard with bunny and magick](https://www.ddrive.no/post/making-hex-and-twittercard-with-bunny-and-magick/)
   * [gganimate your hex](https://www.ddrive.no/post/gganimate-your-hex/)
+* [Draw Animated TIE Fighter](https://www.wjakethompson.com/post/2018-05-04-animated-tie-fighter/)
+* [Making an animated contour plot](https://www.wjakethompson.com/post/2018-09-05-animated-contour-plot/)
+* [Draw a clock](https://www.wjakethompson.com/post/2018-11-27-ggclock/)
     
 
 ## Inspirations
@@ -149,6 +164,7 @@
 * [Recreate The Economist: Global Terrorism Index Plot](http://rpubs.com/tangerine/economist-plot)
 * [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/2015/04/09/recreating-the-vaccination-heatmaps-in-r/)
 * [You can replicate almost any plot with R](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/)
+* [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://www.wjakethompson.com/post/2017-05-05-datasaurus-dozen/)
 
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
