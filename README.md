@@ -143,8 +143,10 @@
 * [Use emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
 
 #### Maps
-* [Draw connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
-* [Draw 3D Lego Map and visualize Columbus Voyage - Rayshade rWalkthrough [GIF]](https://arthurwelle.github.io/RayshaderWalkthrough/index.html)
+* [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
+* [3D Lego Map and visualize Columbus Voyage - Rayshade rWalkthrough [GIF]](https://arthurwelle.github.io/RayshaderWalkthrough/index.html)
+* [Subplots in maps with ggplot2](https://ikashnitsky.github.io/2017/subplots-in-maps/)
+* [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
 #### Drawing
 * Create hex sticker
@@ -176,11 +178,13 @@
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
 
-### Plot Gallery
+### R Plot Gallery
 * [The R Graph Gallery - Help and inspiration for R charts.](https://www.r-graph-gallery.com/) 
 * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 * [Data Movies and ggplot2](http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/)
 * [Leaders’ Ages](https://david.frigge.nz/posts/2018-11-leader-age/)
+* [Regional population structures at a glance](https://github.com/ikashnitsky/the-lancet-2018)
+* [Population age structures of Europe NUTS-3 regions and the US counties](https://github.com/ikashnitsky/compare-pop-eu-us)
 
 ### Other
 * [Data Sketch](http://www.datasketch.es/may/) - Many inspiring data visualizations.
