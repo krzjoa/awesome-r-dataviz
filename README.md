@@ -71,6 +71,8 @@
 * [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](https://www.inwt-statistics.com/read-blog/ggcorpident.html)
 * [ggforce](https://github.com/thomasp85/ggforce) - Accelerating ggplot2. [[Tutorial 1]](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/) [[Tutorial 2]](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
 * [gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2.
+* [ggnomics](https://github.com/teunbrand/ggnomics) - A small project to add ggplot2 extensions.
+* [facetscales](https://github.com/zeehio/facetscales) - facet_grid with different scales per facet.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
@@ -175,9 +177,10 @@
 * [Fronkonstin](https://fronkonstin.com/)
 
 ### Plot Gallery
-* [The R Graph Gallery](https://www.r-graph-gallery.com/) - Help and inspiration for R charts.
+* [The R Graph Gallery - Help and inspiration for R charts.](https://www.r-graph-gallery.com/) 
 * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 * [Data Movies and ggplot2](http://smarterpoland.pl/index.php/2018/12/data-movies-and-ggplot2/)
+* [Leaders’ Ages](https://david.frigge.nz/posts/2018-11-leader-age/)
 
 ### Other
 * [Data Sketch](http://www.datasketch.es/may/) - Many inspiring data visualizations.
