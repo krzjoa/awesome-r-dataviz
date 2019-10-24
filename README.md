@@ -1,6 +1,6 @@
 # awesome-r-dataviz
 
-> Curated resources for Data Visualization in R.
+> Curated resources for Data Visualization, Drawing & Publishing in R.
 
 ## ggplot
 
