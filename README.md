@@ -18,6 +18,7 @@
 * [ggvoronoi](https://github.com/garretrc/ggvoronoi) - Easy Voronoi diagram heatmaps with ggplot2.
 * [ggTimeSeries](https://github.com/shrektan/ggTimeSeries) - Taking time series visualisations beyond line charts.
 * [ggupset](https://github.com/const-ae/ggupset) - Combination matrix axis for 'ggplot2' to create 'UpSet' plots.
+* [patternplot](https://cran.rstudio.com/web/packages/patternplot/index.html) -  Versatile Pie Charts, Bar Charts and Box Plots using Patterns, Colors and Images. [[Vignette]](https://cran.rstudio.com/web/packages/patternplot/vignettes/patternplot-intro.html)
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
