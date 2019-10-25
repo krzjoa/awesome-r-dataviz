@@ -104,12 +104,14 @@
 * [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps.
 * [globe4r](https://github.com/JohnCoene/globe4r) - Interactive globe visualisations.
 * [urbnmapr](https://github.com/UrbanInstitute/urbnmapr) - State and county maps with Alaska and Hawaii.
-* cartography [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
+* [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
 
 ## Tables
 * [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R.
 
 ## Publishing 
+* [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown.
+* [bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
 * [posterdown](https://github.com/brentthorne/posterdown) - Use RMarkdown to generate PDF Conference Posters via HTML.
 
 ## Drawing & Rendering
