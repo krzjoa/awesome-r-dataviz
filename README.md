@@ -1,6 +1,6 @@
 # awesome-r-dataviz <img src='logo/logo.png' align="right" height="139" />
 
-> Curated resources for Data Visualization in R.
+> Curated resources for Data Visualization, Drawing & Publishing in R.
 
 ## ggplot
 
@@ -18,6 +18,7 @@
 * [ggvoronoi](https://github.com/garretrc/ggvoronoi) - Easy Voronoi diagram heatmaps with ggplot2.
 * [ggTimeSeries](https://github.com/shrektan/ggTimeSeries) - Taking time series visualisations beyond line charts.
 * [ggupset](https://github.com/const-ae/ggupset) - Combination matrix axis for 'ggplot2' to create 'UpSet' plots.
+* [patternplot](https://cran.rstudio.com/web/packages/patternplot/index.html) -  Versatile Pie Charts, Bar Charts and Box Plots using Patterns, Colors and Images. [[Vignette]](https://cran.rstudio.com/web/packages/patternplot/vignettes/patternplot-intro.html)
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -37,6 +38,7 @@
 * [fishualize](https://github.com/nschiett/fishualize) - Color scales based on nature’s most stunning and colorful organisms: teleost fishes.
 * [harrypotter](https://github.com/aljrico/harrypotter) - A Harry Potter inspired palette for R.
 * [wesanderson](https://github.com/karthik/wesanderson) - A Wes Anderson color palette for R.
+* [nationalparkcolors](https://github.com/katiejolly/nationalparkcolors) - R package for color themes inspired by national parks.
 * [dutchmasters](https://github.com/EdwinTh/dutchmasters) - Colour palettes derived from famous paintings by 17th century Dutch masters.
 * [pals](https://github.com/kwstat/pals) - Color Palettes and Palette Evaluation Tools.
 * [jcolors](https://github.com/jaredhuling/jcolors) - A set of color palettes I like (or can at least tolerate).
@@ -77,6 +79,7 @@
 * [gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2.
 * [ggnomics](https://github.com/teunbrand/ggnomics) - A small project to add ggplot2 extensions.
 * [facetscales](https://github.com/zeehio/facetscales) - facet_grid with different scales per facet.
+* [ggflags](https://github.com/ellisp/ggflags) - flag geom for ggplot2.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
@@ -101,7 +104,15 @@
 * [leaflet](https://github.com/rstudio/leaflet) - R Interface to Leaflet Maps.
 * [globe4r](https://github.com/JohnCoene/globe4r) - Interactive globe visualisations.
 * [urbnmapr](https://github.com/UrbanInstitute/urbnmapr) - State and county maps with Alaska and Hawaii.
-* cartography [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
+* [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
+
+## Tables
+* [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R.
+
+## Publishing 
+* [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown.
+* [bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
+* [posterdown](https://github.com/brentthorne/posterdown) - Use RMarkdown to generate PDF Conference Posters via HTML.
 
 ## Drawing & Rendering
 * [magick](https://github.com/ropensci/magick) - Advanced Image-Processing in R. [[Tutorial]](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
