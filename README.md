@@ -1,4 +1,4 @@
-# awesome-r-dataviz
+# awesome-r-dataviz <img src='logo/logo.png' align="right" height="139" />
 
 > Curated resources for Data Visualization in R.
 
