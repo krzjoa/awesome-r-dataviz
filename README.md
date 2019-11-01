@@ -18,12 +18,16 @@
 * [ggvoronoi](https://github.com/garretrc/ggvoronoi) - Easy Voronoi diagram heatmaps with ggplot2.
 * [ggTimeSeries](https://github.com/shrektan/ggTimeSeries) - Taking time series visualisations beyond line charts.
 * [ggupset](https://github.com/const-ae/ggupset) - Combination matrix axis for 'ggplot2' to create 'UpSet' plots.
+* [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al.
 * [patternplot](https://cran.rstudio.com/web/packages/patternplot/index.html) -  Versatile Pie Charts, Bar Charts and Box Plots using Patterns, Colors and Images. [[Vignette]](https://cran.rstudio.com/web/packages/patternplot/vignettes/patternplot-intro.html)
+* [ggstance](https://github.com/lionel-/ggstance) - Horizontal ggplot2 components.
+* [ggthreed](https://github.com/coolbutuseless/ggthreed) - 3d geoms and stats for ggplot.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
 * [ggthemes](https://github.com/jrnold/ggthemes) - Additional themes, scales, and geoms for ggplot2.
 * [ggpomological](https://github.com/gadenbuie/ggpomological) - Pomological plot theme for ggplot2 .
+* [ggtech](https://github.com/ricardo-bion/ggtech) - ggplot2 tech themes, scales, and geoms .
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - Opinionated, typographic-centric ggplot2 themes and theme components.
 * [vapoRwave](https://github.com/moldach/vapoRwave) - Vaporwave themes and color palettes for ggplot2.
 * [tvthemes](https://github.com/Ryo-N7/tvthemes) - ggplot2 themes and palettes based on your favorite TV shows.
@@ -31,6 +35,7 @@
 * [visibly](https://github.com/m-clark/visibly) - Functions related to R visualizations.
 * [xkcd](http://xkcd.r-forge.r-project.org/) - Graphs using the XKCD style (a webcomic of romance, sarcasm, math, and language). [[Tutorial]](https://github.com/cran/xkcd/blob/master/inst/doc/xkcd-intro.pdf)
 * [ggrough](https://github.com/xvrdm/ggrough) - Convert ggplot2 chart to roughjs.
+* [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](https://www.inwt-statistics.com/read-blog/ggcorpident.html)
 
 ### Palettes 🎨
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) - Collection of most color palettes in a single R package.
@@ -55,7 +60,7 @@
 
 ### Text
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
-* [shadowtext](https://github.com/GuangchuangYu/shadowtext) -. [[Vignette]](https://cran.r-project.org/web/packages/shadowtext/vignettes/shadowtext.html)
+* [shadowtext](https://github.com/GuangchuangYu/shadowtext) - Shadow Text Grob and Layer. [[Vignette]](https://cran.r-project.org/web/packages/shadowtext/vignettes/shadowtext.html)
 
 ### Animations
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
@@ -64,17 +69,22 @@
 
 ### Devices
 * [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
+* [devout](https://github.com/coolbutuseless/devout) - Write R graphics output devices in plain R.
 * [devoutsvg](https://github.com/coolbutuseless/devoutsvg) - Bespoke SVG graphics output device with pattern fill support.
+* [devoutpdf](https://github.com/coolbutuseless/devoutpdf) - A hand-crafted PDF graphics output device written in plain R.
+* [devoutaudio](https://github.com/coolbutuseless/devoutaudio) - An R graphics device which renders to audio.
+* [devoid](https://github.com/r-lib/devoid) - A Graphic Device That Does Nothing (suitable for benchmarking functions).
 
 ### Miscellaneous
-* [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..
+* [ggpmisc](https://cran.rstudio.com/web/packages/ggpmisc/) - Miscellaneous Extensions to `ggplot2`.
+* [ggExtra](https://github.com/daattali/ggExtra) - Marginal histograms to ggplot2, and more ggplot2 enhancements.
+* [ggreverse](https://github.com/coolbutuseless/ggreverse) - Reverse a ggplot object back into code.
 * [datalegreyar](https://github.com/emitanaka/datalegreyar) - The typeface that melts text and data visualisation for R markdown.
 * [dbplot](https://github.com/edgararuiz/dbplot) - Simplifies plotting of database and sparklyr data.
 * [ggalt](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'.
 * [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots.
 * [patchwork](https://github.com/thomasp85/patchwork) - The Composer of ggplots.
 * [ggally](https://github.com/ggobi/ggally) - R package that extends ggplot2. [[Tutorial]](http://www.sthda.com/english/wiki/ggally-r-package-extension-to-ggplot2-for-correlation-matrix-and-survival-plots-r-software-and-data-visualization)
-* [ggCorpIdent](https://github.com/INWTlab/ggCorpIdent) - A package for ggplot2 graphics in corporate design with custom fonts, colors and logo. [[Tutorial]](https://www.inwt-statistics.com/read-blog/ggcorpident.html)
 * [ggforce](https://github.com/thomasp85/ggforce) - Accelerating ggplot2. [[Tutorial 1]](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/) [[Tutorial 2]](https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/)
 * [gghighlight](https://github.com/yutannihilation/gghighlight) - Highlight points and lines in ggplot2.
 * [ggnomics](https://github.com/teunbrand/ggnomics) - A small project to add ggplot2 extensions.
@@ -94,6 +104,7 @@
 * [googleVis](https://github.com/mages/googleVis) - Interface between R and the Google Chart Tools.
 
 ## Network Visualization
+* [geomnet](https://github.com/sctyner/geomnet) - Network Visualization in the ggplot2 Framework.
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization.
 * [ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics.
@@ -117,6 +128,7 @@
 ## Drawing & Rendering
 * [magick](https://github.com/ropensci/magick) - Advanced Image-Processing in R. [[Tutorial]](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 * [bunny](https://github.com/dmi3kno/bunny) - Useful helper functions for working with magick.
+* [threed](https://github.com/coolbutuseless/threed) - Three-Dimensional Object Transformations.
 * [svgpatternusgs](https://github.com/coolbutuseless/svgpatternusgs) - SVG patterns from the U.S. Geological Survey for use within R.
 * [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
@@ -159,6 +171,7 @@
 * [Visualize Self-Organizing Map](http://blog.schochastics.net/post/soms-and-ggplot/)
 * [Use emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
 * [Make calendar with ggplot](https://chichacha.netlify.com/2018/05/26/making-calendar-with-ggplot-moon-phase-calendar/)
+* [Drawing a basketball court with R](https://egallic.fr/en/drawing-a-basketball-court-with-r/)
 
 #### Maps
 * [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
