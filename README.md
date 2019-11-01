@@ -59,6 +59,7 @@
 * [kinship2](https://github.com/sinnweja/kinship2) - Pedigree creation, plotting, and analytics. [[Vignette]](https://cran.r-project.org/web/packages/kinship2/vignettes/pedigree.html)
 
 ### Text
+* [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud for data visualization.
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [shadowtext](https://github.com/GuangchuangYu/shadowtext) - Shadow Text Grob and Layer. [[Vignette]](https://cran.r-project.org/web/packages/shadowtext/vignettes/shadowtext.html)
 
@@ -118,7 +119,10 @@
 * [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
 
 ## Tables
+* [formattable](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
+* [kableExtra](https://github.com/haozhu233/kableExtra) - Construct Complex Table with knitr::kable() + pipe.
 * [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R.
+* [DT](https://github.com/rstudio/DT) - R Interface to the jQuery Plug-in DataTables.
 
 ## Publishing 
 * [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown.
