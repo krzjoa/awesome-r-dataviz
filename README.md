@@ -139,6 +139,10 @@
 * [rayrender](https://github.com/tylermorganwall/rayrender) - A raytracer for R. Based on Peter Shirley's "Ray Tracing in One Weekend" book series. 
 * [rayrender](https://github.com/tylermorganwall/rayfocus) - Add depth of field to images.
 
+## Others
+* [lattice](https://github.com/deepayan/lattice) - High-level data visualization system inspired by Trellis graphics,.
+* [latticeExtra](http://latticeextra.r-forge.r-project.org/) - Extensions for lattice package.
+
 ## Learning
 
 ### Tutorials
