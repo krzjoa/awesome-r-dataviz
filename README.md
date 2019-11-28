@@ -138,7 +138,7 @@
 * [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 * [rayrender](https://github.com/tylermorganwall/rayrender) - A raytracer for R. Based on Peter Shirley's "Ray Tracing in One Weekend" book series. 
-* [rayrender](https://github.com/tylermorganwall/rayfocus) - Add depth of field to images.
+* [rayfocus](https://github.com/tylermorganwall/rayfocus) - Add depth of field to images.
 
 ## Others
 * [lattice](https://github.com/deepayan/lattice) - High-level data visualization system inspired by Trellis graphics,.
@@ -212,8 +212,13 @@
 
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
-* [by Z3tt](https://github.com/Z3tt)
+* [by Z3tt](https://github.com/Z3tt/TidyTuesday)
 * [by abichat](https://github.com/abichat/tidytuesday)
+
+### 30 Days Map Challenge
+* [by Z3tt](https://github.com/Z3tt/30DayMapChallenge)
+* [by ThomasG77](https://github.com/ThomasG77/30DayMapChallenge)
+* [by adam-gruer](https://github.com/adam-gruer/30DayMapChallenge)
 
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
