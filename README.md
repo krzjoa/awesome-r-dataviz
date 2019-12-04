@@ -22,6 +22,8 @@
 * [patternplot](https://cran.rstudio.com/web/packages/patternplot/index.html) -  Versatile Pie Charts, Bar Charts and Box Plots using Patterns, Colors and Images. [[Vignette]](https://cran.rstudio.com/web/packages/patternplot/vignettes/patternplot-intro.html)
 * [ggstance](https://github.com/lionel-/ggstance) - Horizontal ggplot2 components.
 * [ggthreed](https://github.com/coolbutuseless/ggthreed) - 3d geoms and stats for ggplot.
+* [gggibbous](https://github.com/mnbram/gggibbous) - Moon charts, a pie chart alternative, for ggplot2.
+* [ggweekly](https://github.com/gadenbuie/ggweekly) - Easy, printable, custom calendars and week planners.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -140,6 +142,7 @@
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 * [rayrender](https://github.com/tylermorganwall/rayrender) - A raytracer for R. Based on Peter Shirley's "Ray Tracing in One Weekend" book series. 
 * [rayfocus](https://github.com/tylermorganwall/rayfocus) - Add depth of field to images.
+* [rayshaderanimate](https://github.com/zappingseb/rayshaderanimate) - Animate GPX data on a 3D map.
 
 ## Others
 * [lattice](https://github.com/deepayan/lattice) - High-level data visualization system inspired by Trellis graphics,.
