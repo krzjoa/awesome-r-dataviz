@@ -49,6 +49,7 @@
 * [jcolors](https://github.com/jaredhuling/jcolors) - A set of color palettes I like (or can at least tolerate).
 * [shades](https://github.com/jonclayden/shades) - Simple colour manipulation in R. [[Tutorial]](https://hughjonesd.github.io/tweaking-colours-with-the-shades-package.html)
 * [colorspace](http://colorspace.r-forge.r-project.org/index.html) - A toolbox for manipulating and assessing colors and palettes.
+* [tinter](https://github.com/poissonconsulting/tinter) - Get tints and shades (and both) of a colour.
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
