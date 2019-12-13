@@ -24,6 +24,7 @@
 * [ggthreed](https://github.com/coolbutuseless/ggthreed) - 3d geoms and stats for ggplot.
 * [gggibbous](https://github.com/mnbram/gggibbous) - Moon charts, a pie chart alternative, for ggplot2.
 * [ggweekly](https://github.com/gadenbuie/ggweekly) - Easy, printable, custom calendars and week planners.
+* [gghdr](https://github.com/ropenscilabs/gghdr) -  Tools for plotting highest density regions in the ggplot2.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
