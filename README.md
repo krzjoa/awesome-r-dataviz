@@ -26,6 +26,7 @@
 * [ggweekly](https://github.com/gadenbuie/ggweekly) - Easy, printable, custom calendars and week planners.
 * [gghdr](https://github.com/ropenscilabs/gghdr) -  Tools for plotting highest density regions in the ggplot2.
 * [ggpointdensity](https://github.com/LKremer/ggpointdensity) - Cross Between a Scatter Plot and a 2D Density Plot.
+* [ggstraw](https://github.com/nacnudus/ggstraw) - geom_straw for ggplot2.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
