@@ -25,6 +25,7 @@
 * [gggibbous](https://github.com/mnbram/gggibbous) - Moon charts, a pie chart alternative, for ggplot2.
 * [ggweekly](https://github.com/gadenbuie/ggweekly) - Easy, printable, custom calendars and week planners.
 * [gghdr](https://github.com/ropenscilabs/gghdr) -  Tools for plotting highest density regions in the ggplot2.
+* [ggpointdensity](https://github.com/LKremer/ggpointdensity) - Cross Between a Scatter Plot and a 2D Density Plot.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -62,6 +63,7 @@
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
 * [desplot](https://github.com/kwstat/desplot) - Functions for plotting experimental designs of field trials in agriculture.
 * [kinship2](https://github.com/sinnweja/kinship2) - Pedigree creation, plotting, and analytics. [[Vignette]](https://cran.r-project.org/web/packages/kinship2/vignettes/pedigree.html)
+* [GeomMLBStadiums](https://github.com/bdilday/GeomMLBStadiums) - Geoms to draw MLB stadiums in ggplot2.
 
 ### Text
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud for data visualization.
