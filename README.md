@@ -167,6 +167,7 @@
 * [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/index.html) by Zuguang Gu.
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html) by Claus O. Wilke.
 * [Geocomputation with R: Chapter 8 Making maps with R](https://geocompr.robinlovelace.net/adv-map.html) by Robin Lovelace, Jakub Nowosad and Jannes Muenchow.
+* [Essentials of color in R from. Chapter from Data Science for Psychologists](https://bookdown.org/hneth/ds4psy/D-2-apx-colors-essentials.html) by Hansjörg Neth
 
 ### How to...?
 
