@@ -117,6 +117,7 @@
 * [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization.
 * [ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics.
+* [ggdag](https://github.com/malcolmbarrett/ggdag) - An R package for working with causal directed acyclic graphs (DAGs).
 
 ## Spatial Visualization
 * [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2.
