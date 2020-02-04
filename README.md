@@ -55,6 +55,7 @@
 * [shades](https://github.com/jonclayden/shades) - Simple colour manipulation in R. [[Tutorial]](https://hughjonesd.github.io/tweaking-colours-with-the-shades-package.html)
 * [colorspace](http://colorspace.r-forge.r-project.org/index.html) - A toolbox for manipulating and assessing colors and palettes.
 * [tinter](https://github.com/poissonconsulting/tinter) - Get tints and shades (and both) of a colour.
+* [colormind](https://github.com/dmi3kno/colormind) - Generate Color Palettes With AI (using colormind.io palette generator).
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
