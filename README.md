@@ -58,6 +58,7 @@
 * [colorspace](http://colorspace.r-forge.r-project.org/index.html) - A toolbox for manipulating and assessing colors and palettes.
 * [tinter](https://github.com/poissonconsulting/tinter) - Get tints and shades (and both) of a colour.
 * [colormind](https://github.com/dmi3kno/colormind) - Generate Color Palettes With AI (using colormind.io palette generator).
+* [farver](https://github.com/thomasp85/farver) - High Performance Colourspace Manipulation in R.
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
@@ -78,6 +79,7 @@
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations.
 * [tweenr](https://github.com/thomasp85/tweenr) - A package for interpolating data, mainly for animations.
+* [transformr](https://github.com/thomasp85/transformr) - Smooth Polygon Transformations.
 
 ### Devices
 * [Cairo](http://www.rforge.net/Cairo/) - Graphics device using cairographics library for creating bitmap images or output.
@@ -102,6 +104,8 @@
 * [ggnomics](https://github.com/teunbrand/ggnomics) - A small project to add ggplot2 extensions.
 * [facetscales](https://github.com/zeehio/facetscales) - facet_grid with different scales per facet.
 * [ggflags](https://github.com/ellisp/ggflags) - flag geom for ggplot2.
+* [ggecho](https://github.com/coolbutuseless/ggecho) - ggplot2 stat for echoing data.
+* [ggfx](https://github.com/thomasp85/ggfx) - Filters and Shaders for 'ggplot2'.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
