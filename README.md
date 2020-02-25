@@ -29,6 +29,7 @@
 * [ggstraw](https://github.com/nacnudus/ggstraw) - geom_straw for ggplot2.
 * [ggVennDiagram](https://github.com/gaospecial/ggVennDiagram) - A 'ggplot2' implement of Venn Diagram.
 * [ggblur](https://github.com/coolbutuseless/ggblur) - Blurry Point Geom for ggplot2.
+* [ggbump](https://github.com/davidsjoberg/ggbump) - A geom for ggplot to create bump plots.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
