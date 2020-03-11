@@ -65,6 +65,7 @@
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
 * [ggsoccer](https://github.com/Torvaney/ggsoccer) - Plot soccer event data in R/ggplot2.
+* [soccermatics](https://github.com/JoGall/soccermatics) - Tools for visualisation and analysis of soccer tracking and event data.
 * [gganatogram](https://github.com/jespermaag/gganatogram) - Create anatograms using ggplot2.
 * [rchess](https://github.com/jbkunst/rchess) - Chess package for R.
 * [brickr](https://github.com/ryantimpe/brickr) - 3D LEGO models and mosaics from images using R and tidyverse.
@@ -228,6 +229,7 @@
 * [Recreating the vaccination heatmaps in R](https://benjaminlmoore.wordpress.com/2015/04/09/recreating-the-vaccination-heatmaps-in-r/)
 * [You can replicate almost any plot with R](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/)
 * [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://www.wjakethompson.com/post/2017-05-05-datasaurus-dozen/)
+* [RedGreenGreyDots patient flow dotplot](https://johnmackintosh.com/2017-12-21-flow/)
 
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
