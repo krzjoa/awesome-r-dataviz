@@ -32,6 +32,7 @@
 * [ggbump](https://github.com/davidsjoberg/ggbump) - A geom for ggplot to create bump plots.
 * [marginsplot](https://github.com/vincentarelbundock/marginsplot) - plot marginal effects and predicted values using the `margins` and `ggplot2`.
 * [ggimg](https://github.com/statsmaths/ggimg) - The Missing Image Primative for ggplot2.
+* [ggpattern](https://github.com/coolbutuseless/ggpattern/) - ggplot geoms with pattern fills.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
