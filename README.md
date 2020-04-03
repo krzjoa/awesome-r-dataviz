@@ -33,6 +33,7 @@
 * [marginsplot](https://github.com/vincentarelbundock/marginsplot) - plot marginal effects and predicted values using the `margins` and `ggplot2`.
 * [ggimg](https://github.com/statsmaths/ggimg) - The Missing Image Primative for ggplot2.
 * [ggpattern](https://github.com/coolbutuseless/ggpattern/) - ggplot geoms with pattern fills.
+* [ggfreehand](https://github.com/dgrtwo/ggfreehand) - Add freehand circles to ggplot2 graphs.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
