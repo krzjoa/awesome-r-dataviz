@@ -19,6 +19,7 @@
 * [ggTimeSeries](https://github.com/shrektan/ggTimeSeries) - Taking time series visualisations beyond line charts.
 * [ggupset](https://github.com/const-ae/ggupset) - Combination matrix axis for 'ggplot2' to create 'UpSet' plots.
 * [UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al.
+* [complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
 * [patternplot](https://cran.rstudio.com/web/packages/patternplot/index.html) -  Versatile Pie Charts, Bar Charts and Box Plots using Patterns, Colors and Images. [[Vignette]](https://cran.rstudio.com/web/packages/patternplot/vignettes/patternplot-intro.html)
 * [ggstance](https://github.com/lionel-/ggstance) - Horizontal ggplot2 components.
 * [ggthreed](https://github.com/coolbutuseless/ggthreed) - 3d geoms and stats for ggplot.
@@ -75,6 +76,7 @@
 * [desplot](https://github.com/kwstat/desplot) - Functions for plotting experimental designs of field trials in agriculture.
 * [kinship2](https://github.com/sinnweja/kinship2) - Pedigree creation, plotting, and analytics. [[Vignette]](https://cran.r-project.org/web/packages/kinship2/vignettes/pedigree.html)
 * [GeomMLBStadiums](https://github.com/bdilday/GeomMLBStadiums) - Geoms to draw MLB stadiums in ggplot2.
+* [ggpacman](https://github.com/mcanouil/ggpacman) - A `ggplot2` and `gganimate` Version of Pac-Man.
 
 ### Text
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud for data visualization.
@@ -139,6 +141,7 @@
 * [globe4r](https://github.com/JohnCoene/globe4r) - Interactive globe visualisations.
 * [urbnmapr](https://github.com/UrbanInstitute/urbnmapr) - State and county maps with Alaska and Hawaii.
 * [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
+* [mapextrud](https://github.com/neocarto/mapextrud) - Build Extruded Maps in R.
 
 ## Tables
 * [formattable](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
