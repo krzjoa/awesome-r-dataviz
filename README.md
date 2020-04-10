@@ -35,6 +35,7 @@
 * [ggimg](https://github.com/statsmaths/ggimg) - The Missing Image Primative for ggplot2.
 * [ggpattern](https://github.com/coolbutuseless/ggpattern/) - ggplot geoms with pattern fills.
 * [ggfreehand](https://github.com/dgrtwo/ggfreehand) - Add freehand circles to ggplot2 graphs.
+* [ganttrify](https://github.com/giocomai/ganttrify) - Create beautiful Gantt charts with ggplot2.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -208,6 +209,7 @@
 * [Use emojis as scatterplot points](https://statisticaloddsandends.wordpress.com/2018/12/28/using-emojis-as-scatterplot-points/)
 * [Make calendar with ggplot](https://chichacha.netlify.com/2018/05/26/making-calendar-with-ggplot-moon-phase-calendar/)
 * [Drawing a basketball court with R](https://egallic.fr/en/drawing-a-basketball-court-with-r/)
+* [Draw a Gantt chart](https://stackoverflow.com/questions/3550341/gantt-charts-with-r)
 
 #### Maps
 * [Connections on the map](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/) [[remarks]](https://paulbutler.org/2010/visualizing-facebook-friends/)
