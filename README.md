@@ -66,6 +66,7 @@
 * [tinter](https://github.com/poissonconsulting/tinter) - Get tints and shades (and both) of a colour.
 * [colormind](https://github.com/dmi3kno/colormind) - Generate Color Palettes With AI (using colormind.io palette generator).
 * [farver](https://github.com/thomasp85/farver) - High Performance Colourspace Manipulation in R.
+* [tricolore](https://github.com/jschoeley/tricolore) - A flexible color scale for ternary compositions.
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
@@ -252,6 +253,7 @@
 
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
+* [flametree](https://github.com/djnavarro/flametree)
 
 ### R Plot Gallery
 * [The R Graph Gallery - Help and inspiration for R charts.](https://www.r-graph-gallery.com/) 
