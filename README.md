@@ -240,6 +240,7 @@
 * [You can replicate almost any plot with R](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/)
 * [Recreating the Datasaurus Dozen Using tweenr and ggplot2](https://www.wjakethompson.com/post/2017-05-05-datasaurus-dozen/)
 * [RedGreenGreyDots patient flow dotplot](https://johnmackintosh.com/2017-12-21-flow/)
+* [Plot recreations by mohdbilal87](https://mohdbilal87.github.io/dataviz-r/)
 
 ### Tidytuesday
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
