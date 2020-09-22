@@ -67,6 +67,7 @@
 * [colormind](https://github.com/dmi3kno/colormind) - Generate Color Palettes With AI (using colormind.io palette generator).
 * [farver](https://github.com/thomasp85/farver) - High Performance Colourspace Manipulation in R.
 * [tricolore](https://github.com/jschoeley/tricolore) - A flexible color scale for ternary compositions.
+* [colorfindr](https://github.com/zumbov2/colorfindr) - Extracts colors from various image types, plots treemaps and 3D scatterplots.
 
 ### Domain-specific
 * [ggparliament](https://github.com/RobWHickman/ggparliament) - Simple parliament plots using ggplot2.
