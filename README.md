@@ -80,6 +80,8 @@
 * [kinship2](https://github.com/sinnweja/kinship2) - Pedigree creation, plotting, and analytics. [[Vignette]](https://cran.r-project.org/web/packages/kinship2/vignettes/pedigree.html)
 * [GeomMLBStadiums](https://github.com/bdilday/GeomMLBStadiums) - Geoms to draw MLB stadiums in ggplot2.
 * [ggpacman](https://github.com/mcanouil/ggpacman) - A `ggplot2` and `gganimate` Version of Pac-Man.
+* [gglcd](https://github.com/cj-holmes/gglcd) - About
+Programmatic production of Liquid Crystal alignment diagrams.
 
 ### Text
 * [ggtext](https://github.com/wilkelab/ggtext) - Improved text rendering support for ggplot2.
@@ -118,6 +120,8 @@
 * [ggflags](https://github.com/ellisp/ggflags) - flag geom for ggplot2.
 * [ggecho](https://github.com/coolbutuseless/ggecho) - ggplot2 stat for echoing data.
 * [ggfx](https://github.com/thomasp85/ggfx) - Filters and Shaders for 'ggplot2'.
+* [ggboy](https://github.com/cj-holmes/ggboy) - Simulating Game Boy DMG-01 graphics.
+* [ggframe](https://github.com/moodymudskipper/ggframe) - data frames that print as ggplots.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
