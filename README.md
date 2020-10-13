@@ -102,6 +102,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [devoutpdf](https://github.com/coolbutuseless/devoutpdf) - A hand-crafted PDF graphics output device written in plain R.
 * [devoutaudio](https://github.com/coolbutuseless/devoutaudio) - An R graphics device which renders to audio.
 * [devoid](https://github.com/r-lib/devoid) - A Graphic Device That Does Nothing (suitable for benchmarking functions).
+* [devoutrgl](https://github.com/coolbutuseless/devoutrgl) - R graphics device to render to {rgl}.
 
 ### Miscellaneous
 * [ggpmisc](https://cran.rstudio.com/web/packages/ggpmisc/) - Miscellaneous Extensions to `ggplot2`.
@@ -150,6 +151,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [urbnmapr](https://github.com/UrbanInstitute/urbnmapr) - State and county maps with Alaska and Hawaii.
 * [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
 * [mapextrud](https://github.com/neocarto/mapextrud) - Build Extruded Maps in R.
+* [geofacet](https://hafen.github.io/geofacet/) - R package for geographical faceting with ggplot2.
 
 ## Tables
 * [formattable](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
