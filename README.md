@@ -232,7 +232,9 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [Draw Animated TIE Fighter](https://www.wjakethompson.com/post/2018-05-04-animated-tie-fighter/)
 * [Making an animated contour plot](https://www.wjakethompson.com/post/2018-09-05-animated-contour-plot/)
 * [Draw a clock](https://www.wjakethompson.com/post/2018-11-27-ggclock/)
-    
+
+### Animations
+* [Download and Animate Polar Ice Data in R with Rayrender](https://www.tylermw.com/polar-ice-data-in-r-with-rayrender/)
 
 ## Inspirations
 
