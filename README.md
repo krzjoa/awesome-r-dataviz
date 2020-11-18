@@ -82,6 +82,7 @@
 * [ggpacman](https://github.com/mcanouil/ggpacman) - A `ggplot2` and `gganimate` Version of Pac-Man.
 * [gglcd](https://github.com/cj-holmes/gglcd) - About
 Programmatic production of Liquid Crystal alignment diagrams.
+* [econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomic graphs in ggplot2.
 
 ### Text
 * [ggtext](https://github.com/wilkelab/ggtext) - Improved text rendering support for ggplot2.
