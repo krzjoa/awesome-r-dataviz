@@ -261,6 +261,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [by Z3tt](https://github.com/Z3tt/30DayMapChallenge)
 * [by ThomasG77](https://github.com/ThomasG77/30DayMapChallenge)
 * [by adam-gruer](https://github.com/adam-gruer/30DayMapChallenge)
+* [by Matt Malishev](https://github.com/darwinanddavis/worldmaps/tree/gh-pages)
 
 ### Art
 * [Fronkonstin](https://fronkonstin.com/)
