@@ -5,6 +5,7 @@
 ## ggplot
 
 ### Additional Plot Types
+* [ggrgl](https://github.com/coolbutuseless/ggrgl) - 3d extension to ggplot.
 * [waffle](https://github.com/hrbrmstr/waffle) - Make waffle (square pie) charts in R.
 * [ggridges](https://github.com/clauswilke/ggridges) - Geoms to make ridgeline plots with ggplot2.
 * [ggchicklet](https://github.com/hrbrmstr/ggchicklet) - Create Chicklet (Rounded Segmented Column) Charts.
