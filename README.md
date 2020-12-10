@@ -36,6 +36,7 @@
 * [ggpattern](https://github.com/coolbutuseless/ggpattern/) - ggplot geoms with pattern fills.
 * [ggfreehand](https://github.com/dgrtwo/ggfreehand) - Add freehand circles to ggplot2 graphs.
 * [ganttrify](https://github.com/giocomai/ganttrify) - Create beautiful Gantt charts with ggplot2.
+* [ggstream](https://github.com/davidsjoberg/ggstream) - A package to make streamplots.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
