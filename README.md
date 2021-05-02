@@ -86,6 +86,8 @@
 * [gglcd](https://github.com/cj-holmes/gglcd) - About
 Programmatic production of Liquid Crystal alignment diagrams.
 * [econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomic graphs in ggplot2.
+* [sportyR](https://github.com/rossdrucker/sportyR) - R package for drawing regulation playing surfaces for several sports.
+* [treeheatr](https://github.com/trang1618/treeheatr) - Heatmap-integrated Decision Tree Visualizations.
 
 ### Text
 * [ggtext](https://github.com/wilkelab/ggtext) - Improved text rendering support for ggplot2.
@@ -156,12 +158,14 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [cartography](https://github.com/riatelab/cartography) - Thematic Cartography. [[Vignette]](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html)
 * [mapextrud](https://github.com/neocarto/mapextrud) - Build Extruded Maps in R.
 * [geofacet](https://hafen.github.io/geofacet/) - R package for geographical faceting with ggplot2.
+* [zonebuilder](https://github.com/zonebuilders/zonebuilder) - Divide geographic space into discrete chunks.
 
 ## Tables
 * [formattable](https://github.com/renkun-ken/formattable) - Formattable Data Structures.
 * [kableExtra](https://github.com/haozhu233/kableExtra) - Construct Complex Table with knitr::kable() + pipe.
 * [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R.
 * [DT](https://github.com/rstudio/DT) - R Interface to the jQuery Plug-in DataTables.
+* [mmtable2](https://github.com/ianmoran11/mmtable2) - Allows you to create and combine tables with a ggplot2/patchwork syntax.
 
 ## Publishing 
 * [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown.
