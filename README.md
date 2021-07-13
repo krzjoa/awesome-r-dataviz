@@ -39,6 +39,7 @@
 * [ganttrify](https://github.com/giocomai/ganttrify) - Create beautiful Gantt charts with ggplot2.
 * [ggstream](https://github.com/davidsjoberg/ggstream) - A package to make streamplots.
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr) - Builds bullet charts suitable for tracking KPIs.
+* [treemapify](https://github.com/wilkox/treemapify) - Draw treemaps in ggplot2.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
@@ -88,9 +89,11 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [econocharts](https://github.com/R-CoderDotCom/econocharts) - Microeconomic graphs in ggplot2.
 * [sportyR](https://github.com/rossdrucker/sportyR) - R package for drawing regulation playing surfaces for several sports.
 * [treeheatr](https://github.com/trang1618/treeheatr) - Heatmap-integrated Decision Tree Visualizations.
+* [gggenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2.
 
 ### Text
 * [ggtext](https://github.com/wilkelab/ggtext) - Improved text rendering support for ggplot2.
+* [ggfittext](https://github.com/wilkox/ggfittext) - ggplot2 geoms to fit text into boxes.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud for data visualization.
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [shadowtext](https://github.com/GuangchuangYu/shadowtext) - Shadow Text Grob and Layer. [[Vignette]](https://cran.r-project.org/web/packages/shadowtext/vignettes/shadowtext.html)
@@ -129,6 +132,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [ggfx](https://github.com/thomasp85/ggfx) - Filters and Shaders for 'ggplot2'.
 * [ggboy](https://github.com/cj-holmes/ggboy) - Simulating Game Boy DMG-01 graphics.
 * [ggframe](https://github.com/moodymudskipper/ggframe) - data frames that print as ggplots.
+* [ggwrap](https://github.com/wilkox/ggwrap) - Wrap ggplot2 plots over multiple rows.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
