@@ -40,6 +40,7 @@
 * [ggstream](https://github.com/davidsjoberg/ggstream) - A package to make streamplots.
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr) - Builds bullet charts suitable for tracking KPIs.
 * [treemapify](https://github.com/wilkox/treemapify) - Draw treemaps in ggplot2.
+* [ggborderline](https://github.com/wurli/ggborderline) - Make line plots that *pop*.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
