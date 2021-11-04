@@ -1,4 +1,5 @@
-# awesome-r-dataviz <img src="https://raw.githubusercontent.com/krzjoa/awesome-r-dataviz/master/logo/logo.png" align="right" height="139" />
+# awesome-r-dataviz
+<img src="https://raw.githubusercontent.com/krzjoa/awesome-r-dataviz/master/logo/logo.png" align="right" height="139" />
 
 > Curated resources for Data Visualization, Drawing & Publishing in R.
 
