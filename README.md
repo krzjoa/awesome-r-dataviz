@@ -98,6 +98,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud for data visualization.
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [shadowtext](https://github.com/GuangchuangYu/shadowtext) - Shadow Text Grob and Layer. [[Vignette]](https://cran.r-project.org/web/packages/shadowtext/vignettes/shadowtext.html)
+* [geomtextpath](https://github.com/AllanCameron/geomtextpath) - Create curved text paths in ggplot2.
 
 ### Animations
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
