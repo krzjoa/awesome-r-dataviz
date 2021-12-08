@@ -188,6 +188,8 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [rayrender](https://github.com/tylermorganwall/rayrender) - A raytracer for R. Based on Peter Shirley's "Ray Tracing in One Weekend" book series. 
 * [rayfocus](https://github.com/tylermorganwall/rayfocus) - Add depth of field to images.
 * [rayshaderanimate](https://github.com/zappingseb/rayshaderanimate) - Animate GPX data on a 3D map.
+* [raytrix](https://github.com/h-a-graham/raytrix) - Provides a spatial framework and convenience functions for acessing and translating spatial data.
+* [rayvista](https://github.com/h-a-graham/rayvista) - An R plugin for {rayshader} to view a 3D vista anywhere on earth.
 
 ## Others
 * [lattice](https://github.com/deepayan/lattice) - High-level data visualization system inspired by Trellis graphics,.
