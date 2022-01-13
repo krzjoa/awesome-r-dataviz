@@ -135,6 +135,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [ggboy](https://github.com/cj-holmes/ggboy) - Simulating Game Boy DMG-01 graphics.
 * [ggframe](https://github.com/moodymudskipper/ggframe) - data frames that print as ggplots.
 * [ggwrap](https://github.com/wilkox/ggwrap) - Wrap ggplot2 plots over multiple rows.
+* [ggsvg](https://github.com/coolbutuseless/ggsvg) - Use SVG images as ggplot points.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
