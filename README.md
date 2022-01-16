@@ -249,6 +249,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [Draw Animated TIE Fighter](https://www.wjakethompson.com/post/2018-05-04-animated-tie-fighter/)
 * [Making an animated contour plot](https://www.wjakethompson.com/post/2018-09-05-animated-contour-plot/)
 * [Draw a clock](https://www.wjakethompson.com/post/2018-11-27-ggclock/)
+* [Radial patterns in ggplot](https://ijeamakaanyene.github.io/patterns/zine/zine_radial_patterns.html#1) by Ijeamakaanyene 
 
 ### Animations
 * [Download and Animate Polar Ice Data in R with Rayrender](https://www.tylermw.com/polar-ice-data-in-r-with-rayrender/)
@@ -272,6 +273,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [by Karamanis](https://github.com/gkaramanis/tidytuesday)
 * [by Z3tt](https://github.com/Z3tt/TidyTuesday)
 * [by abichat](https://github.com/abichat/tidytuesday)
+* [by Ijeamakaanyene](https://github.com/Ijeamakaanyene/tidytuesday)
 
 ### 30 Days Map Challenge
 * [by Z3tt](https://github.com/Z3tt/30DayMapChallenge)
