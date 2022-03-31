@@ -41,6 +41,7 @@
 * [bulletchartr](https://github.com/ACDIVOCATech/bulletchartr) - Builds bullet charts suitable for tracking KPIs.
 * [treemapify](https://github.com/wilkox/treemapify) - Draw treemaps in ggplot2.
 * [ggborderline](https://github.com/wurli/ggborderline) - Make line plots that *pop*.
+* [ggbraid](https://github.com/nsgrantham/ggbraid) - Braid two lines and a ribbon in ggplot2.
 
 ### Themes
 * [ggthemr](https://github.com/cttobin/ggthemr) - Themes for ggplot2.
