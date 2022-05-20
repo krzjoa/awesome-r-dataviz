@@ -137,6 +137,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [ggframe](https://github.com/moodymudskipper/ggframe) - data frames that print as ggplots.
 * [ggwrap](https://github.com/wilkox/ggwrap) - Wrap ggplot2 plots over multiple rows.
 * [ggsvg](https://github.com/coolbutuseless/ggsvg) - Use SVG images as ggplot points.
+* [ggblend](https://github.com/mjskay/ggblend) - Support for blend modes in ggplot2.
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
