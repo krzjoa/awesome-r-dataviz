@@ -100,7 +100,8 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [ggrepel](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 * [shadowtext](https://github.com/GuangchuangYu/shadowtext) - Shadow Text Grob and Layer. [[Vignette]](https://cran.r-project.org/web/packages/shadowtext/vignettes/shadowtext.html)
 * [geomtextpath](https://github.com/AllanCameron/geomtextpath) - Create curved text paths in ggplot2.
-
+* [ggpath](https://github.com/mrcaseb/ggpath) - Enables robust image grobs in panels and theme elements.
+* 
 ### Animations
 * [gganimate](https://github.com/thomasp85/gganimate) - A Grammar of Animated Graphics.
 * [animation](https://github.com/yihui/animation) - A gallery of animations in statistics and utilities to create animations.
@@ -115,6 +116,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [devoutaudio](https://github.com/coolbutuseless/devoutaudio) - An R graphics device which renders to audio.
 * [devoid](https://github.com/r-lib/devoid) - A Graphic Device That Does Nothing (suitable for benchmarking functions).
 * [devoutrgl](https://github.com/coolbutuseless/devoutrgl) - R graphics device to render to {rgl}.
+* [ragg](https://github.com/r-lib/ragg) - AGG provides both higher performance and higher quality than the standard raster devices provided by grDevices.
 
 ### Miscellaneous
 * [ggpmisc](https://cran.rstudio.com/web/packages/ggpmisc/) - Miscellaneous Extensions to `ggplot2`.
