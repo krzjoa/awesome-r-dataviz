@@ -189,6 +189,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [threed](https://github.com/coolbutuseless/threed) - Three-Dimensional Object Transformations.
 * [svgpatternusgs](https://github.com/coolbutuseless/svgpatternusgs) - SVG patterns from the U.S. Geological Survey for use within R.
 * [ggtextures](https://github.com/clauswilke/ggtextures) - Drawing textured rectangles and bars with ggplot.
+* [isocubes](https://github.com/coolbutuseless/isocubes) - An isometric rendering canvas with cubes as the only graphics primitive.
 * [rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization.
 * [rayrender](https://github.com/tylermorganwall/rayrender) - A raytracer for R. Based on Peter Shirley's "Ray Tracing in One Weekend" book series. 
 * [rayfocus](https://github.com/tylermorganwall/rayfocus) - Add depth of field to images.
