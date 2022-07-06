@@ -92,6 +92,7 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [sportyR](https://github.com/rossdrucker/sportyR) - R package for drawing regulation playing surfaces for several sports.
 * [treeheatr](https://github.com/trang1618/treeheatr) - Heatmap-integrated Decision Tree Visualizations.
 * [gggenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2.
+* [ggseqplot](https://github.com/maraab23/ggseqplot) - R library for visualizing (social science) sequence data using ggplot2.
 
 ### Text
 * [ggtext](https://github.com/wilkelab/ggtext) - Improved text rendering support for ggplot2.
@@ -140,6 +141,9 @@ Programmatic production of Liquid Crystal alignment diagrams.
 * [ggwrap](https://github.com/wilkox/ggwrap) - Wrap ggplot2 plots over multiple rows.
 * [ggsvg](https://github.com/coolbutuseless/ggsvg) - Use SVG images as ggplot points.
 * [ggblend](https://github.com/mjskay/ggblend) - Support for blend modes in ggplot2.
+* [easyalluvial](https://github.com/erblast/easyalluvial/) - Create alluvial plots with a single line of code.
+* [parcats](https://github.com/erblast/parcats) - htmlwidget that creates plotly parallel categories diagrams from easyalluvial plots.
+
 
 ## Interactive plots
 * [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R.
